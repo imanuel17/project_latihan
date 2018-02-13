@@ -8,5 +8,5 @@ $dbtype = "mysql"; // ini tipe databasenya
 	
 	$dsn = "mysql:host=$dbhost;dbname=$dbname;charset=$dbcharset";	
 
-	$dbconn = new PDO($dsn, $dbuser, $dbpassword);	
+	$dbconn = new PDO($dsn, $dbuser, $dbpassword); // ini saja yang saya ubah dikit doang kok	
 	?>
