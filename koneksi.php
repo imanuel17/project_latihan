@@ -4,7 +4,7 @@ $dbtype = "mysql"; // ini tipe databasenya
 	$dbname = "sampledb";		//nama database
 	$dbuser = "root";	//username database
 	$dbpassword = "";		//password database
-	$dbcharset = "utf8";		//character database
+	$dbcharset = "utf8";		//character database lalal lalal alalal alala 
 	
 	$dsn = "mysql:host=$dbhost;dbname=$dbname;charset=$dbcharset";	
 
